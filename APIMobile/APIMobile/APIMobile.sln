@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31612.314
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIMobile", "APIMobile\APIMobile.csproj", "{FCED18A8-B3F2-44EA-BCF8-B67F2B6736BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCED18A8-B3F2-44EA-BCF8-B67F2B6736BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCED18A8-B3F2-44EA-BCF8-B67F2B6736BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCED18A8-B3F2-44EA-BCF8-B67F2B6736BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCED18A8-B3F2-44EA-BCF8-B67F2B6736BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84FD373E-31FF-44D3-A477-A88A7ADF7D62}
+	EndGlobalSection
+EndGlobal
